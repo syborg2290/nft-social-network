@@ -1,0 +1,38 @@
+{
+  "name": "social_frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@heroicons/react": "^1.0.6",
+    "algosdk": "^1.19.0",
+    "axios": "^0.27.2",
+    "copy-to-clipboard": "^3.3.2",
+    "flowbite": "^1.5.2",
+    "flowbite-react": "^0.1.6",
+    "moment": "^2.29.4",
+    "next": "12.2.4",
+    "nft.storage": "^7.0.0",
+    "react": "18.2.0",
+    "react-avatar": "^5.0.3",
+    "react-dom": "18.2.0",
+    "recoil": "^0.7.4",
+    "recoil-persist": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "18.7.1",
+    "@types/react": "18.0.17",
+    "@types/react-dom": "18.0.6",
+    "autoprefixer": "^10.4.8",
+    "eslint": "8.21.0",
+    "eslint-config-next": "12.2.4",
+    "postcss": "^8.4.16",
+    "tailwindcss": "^3.1.8",
+    "typescript": "4.7.4"
+  }
+}
